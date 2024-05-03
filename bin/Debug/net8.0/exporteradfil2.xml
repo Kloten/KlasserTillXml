@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <personal>
+    <person anstid="51" delete="false">
+      <skattekolumn>0</skattekolumn>
+      <sysgrad datum="0001-01-01">100</sysgrad>
+      <personbelopp>
+        <belopp id="P01" datum="0001-01-01">125</belopp>
+      </personbelopp>
+      <manlon datum="2010-01-01">25000</manlon>
+      <innevarande>false</innevarande>
+      <avgdatum>0001-01-01</avgdatum>
+      <anstdatum>1995-01-01</anstdatum>
+      <arbetstelefon>0322-21298</arbetstelefon>
+      <mobiltelefon>070-996 96 96</mobiltelefon>
+      <land>Sverige</land>
+      <ort>Vårgårda</ort>
+      <postnr>447 34</postnr>
+      <postadress>Föreningsgatan 33</postadress>
+      <extraadress />
+      <efternamn>Ljunggren</efternamn>
+      <fornamn>Siv</fornamn>
+    </person>
+  </personal>
+  <schematransaktioner>
+    <schema anstid="101">
+      <dag datum="2012-06-02" starttid="00:00:00.0000000+01:00" sluttid="00:00:00.0000000+01:00" timmar="8" />
+      <dag datum="2012-06-03" starttid="00:00:00.0000000+01:00" sluttid="00:00:00.0000000+01:00" timmar="4.5" />
+      <dag datum="2012-06-04" starttid="00:00:00.0000000+01:00" sluttid="00:00:00.0000000+01:00" timmar="0" />
+    </schema>
+  </schematransaktioner>
+  <lonetransaktioner>
+    <lonetrans postid="0" persnr="198210101237">
+      <resenheter>
+        <resenhet dim="1" id="12" />
+        <resenhet dim="6" id="100" />
+      </resenheter>
+      <kontonr>6510</kontonr>
+      <antal>8.4</antal>
+      <datumtom>0001-01-01T00:00:00</datumtom>
+      <datumfrom>0001-01-01T00:00:00</datumfrom>
+      <datum>0001-01-01</datum>
+      <lonart>145</lonart>
+    </lonetrans>
+  </lonetransaktioner>
+  <tidtransaktioner>
+    <tidtrans postid="0" anstid="101">
+      <semgrund>false</semgrund>
+      <omfattning>100</omfattning>
+      <sluttid>0001-01-01T00:00:00</sluttid>
+      <starttid>0001-01-01T00:00:00</starttid>
+      <datumtom>2012-06-05</datumtom>
+      <datumfrom>2012-06-02</datumfrom>
+      <datum>0001-01-01</datum>
+      <tidkod>SJK</tidkod>
+    </tidtrans>
+    <tidtrans postid="0" anstid="101">
+      <semgrund>false</semgrund>
+      <omfattning>100</omfattning>
+      <sluttid>0001-01-01T00:00:00</sluttid>
+      <starttid>0001-01-01T00:00:00</starttid>
+      <datumtom>2012-06-01</datumtom>
+      <datumfrom>2012-06-01</datumfrom>
+      <datum>0001-01-01</datum>
+      <tidkod>TJL</tidkod>
+    </tidtrans>
+  </tidtransaktioner>
+  <resetransaktioner>
+    <resetrans postid="0" anstid="51">
+      <antlast>0</antlast>
+      <antpass>0</antpass>
+      <kilometer>0</kilometer>
+      <kmstopp>0</kmstopp>
+      <kmstart>0</kmstart>
+      <antdeltag>0</antdeltag>
+      <ftgkort>false</ftgkort>
+      <resekod>START</resekod>
+      <tidpunkt>2012-04-01T08:00:00</tidpunkt>
+    </resetrans>
+  </resetransaktioner>
+  <resultatenheter>
+    <resultatenhet delete="false" dim="1" id="100" namn="Kostnadsställe 100" />
+    <resultatenhet delete="false" dim="1" id="110" namn="Kostnadsställe 110" />
+    <resultatenhet delete="false" dim="6" id="100" namn="Projekt 100" />
+  </resultatenheter>
+  <dimensioner>
+    <dimension dim="1" namn="Kostnadsställe" />
+    <dimension dim="6" namn="Projekt" />
+  </dimensioner>
+  <header>
+    <land>Sverige</land>
+    <datum>0001-01-01T00:00:00</datum>
+    <version>2.0</version>
+    <format>LÖNIN</format>
+  </header>
+</paxml>

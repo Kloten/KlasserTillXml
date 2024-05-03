@@ -1,0 +1,14 @@
+C:\Daniel\TestProjects\KlasserTillXml\bin\Debug\net8.0\KlasserTillXml.exe
+C:\Daniel\TestProjects\KlasserTillXml\bin\Debug\net8.0\KlasserTillXml.deps.json
+C:\Daniel\TestProjects\KlasserTillXml\bin\Debug\net8.0\KlasserTillXml.runtimeconfig.json
+C:\Daniel\TestProjects\KlasserTillXml\bin\Debug\net8.0\KlasserTillXml.dll
+C:\Daniel\TestProjects\KlasserTillXml\bin\Debug\net8.0\KlasserTillXml.pdb
+C:\Daniel\TestProjects\KlasserTillXml\obj\Debug\net8.0\KlasserTillXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel\TestProjects\KlasserTillXml\obj\Debug\net8.0\KlasserTillXml.AssemblyInfoInputs.cache
+C:\Daniel\TestProjects\KlasserTillXml\obj\Debug\net8.0\KlasserTillXml.AssemblyInfo.cs
+C:\Daniel\TestProjects\KlasserTillXml\obj\Debug\net8.0\KlasserTillXml.csproj.CoreCompileInputs.cache
+C:\Daniel\TestProjects\KlasserTillXml\obj\Debug\net8.0\KlasserTillXml.dll
+C:\Daniel\TestProjects\KlasserTillXml\obj\Debug\net8.0\refint\KlasserTillXml.dll
+C:\Daniel\TestProjects\KlasserTillXml\obj\Debug\net8.0\KlasserTillXml.pdb
+C:\Daniel\TestProjects\KlasserTillXml\obj\Debug\net8.0\KlasserTillXml.genruntimeconfig.cache
+C:\Daniel\TestProjects\KlasserTillXml\obj\Debug\net8.0\ref\KlasserTillXml.dll

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Daniel\\TestProjects\\KlasserTillXml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB56AF-4F2F-4063-A69B-88588639CB20}|KlasserTillXml.csproj|c:\\daniel\\testprojects\\klassertillxml\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BB56AF-4F2F-4063-A69B-88588639CB20}|KlasserTillXml.csproj|solutionrelative:serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB56AF-4F2F-4063-A69B-88588639CB20}|KlasserTillXml.csproj|c:\\daniel\\testprojects\\klassertillxml\\testxmltoclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BB56AF-4F2F-4063-A69B-88588639CB20}|KlasserTillXml.csproj|solutionrelative:testxmltoclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB56AF-4F2F-4063-A69B-88588639CB20}|KlasserTillXml.csproj|c:\\daniel\\testprojects\\klassertillxml\\testxmltoclasses2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BB56AF-4F2F-4063-A69B-88588639CB20}|KlasserTillXml.csproj|solutionrelative:testxmltoclasses2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BB56AF-4F2F-4063-A69B-88588639CB20}|KlasserTillXml.csproj|c:\\daniel\\testprojects\\klassertillxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BB56AF-4F2F-4063-A69B-88588639CB20}|KlasserTillXml.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestXmlToClasses.cs",
+              "DocumentMoniker": "C:\\Daniel\\TestProjects\\KlasserTillXml\\TestXmlToClasses.cs",
+              "RelativeDocumentMoniker": "TestXmlToClasses.cs",
+              "ToolTip": "C:\\Daniel\\TestProjects\\KlasserTillXml\\TestXmlToClasses.cs",
+              "RelativeToolTip": "TestXmlToClasses.cs",
+              "ViewState": "AQIAAOcBAAAAAAAAAAAMwAoCAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:13:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestXmlToClasses2.cs",
+              "DocumentMoniker": "C:\\Daniel\\TestProjects\\KlasserTillXml\\TestXmlToClasses2.cs",
+              "RelativeDocumentMoniker": "TestXmlToClasses2.cs",
+              "ToolTip": "C:\\Daniel\\TestProjects\\KlasserTillXml\\TestXmlToClasses2.cs",
+              "RelativeToolTip": "TestXmlToClasses2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8CAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:01:44.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Daniel\\TestProjects\\KlasserTillXml\\Serializer.cs",
+              "RelativeDocumentMoniker": "Serializer.cs",
+              "ToolTip": "C:\\Daniel\\TestProjects\\KlasserTillXml\\Serializer.cs",
+              "RelativeToolTip": "Serializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T09:55:37.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Daniel\\TestProjects\\KlasserTillXml\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Daniel\\TestProjects\\KlasserTillXml\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T07:50:21.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
